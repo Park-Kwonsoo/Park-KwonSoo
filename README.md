@@ -2,7 +2,7 @@
 
 [![ParkKwonsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-KwonSoo)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m @Park-KwonSoo
+- 👋 Hi, I’m @Park-Kwonsoo
 
 <!---
 Park-KwonSoo/Park-KwonSoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
